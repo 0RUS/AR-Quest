@@ -1,26 +1,3 @@
-{
-    "name": "Unity.Rider.Editor",
-    "references": [
-        "GUID:0acc523941302664db1f4e527237feb3",
-        "GUID:27619889b8ba8c24980f49ee34dbb44a"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": true,
-    "precompiledReferences": [
-        "nunit.framework.dll"
-    ],
-    "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": [
-        {
-            "name": "com.unity.test-framework",
-            "expression": "1.1.1",
-            "define": "TEST_FRAMEWORK"
-        }
-    ],
-    "noEngineReferences": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3fc353710b600e6f640aebf652544082361bf50f652848343bc3f1cbf2bd8d8
+size 631

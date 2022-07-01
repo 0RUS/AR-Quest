@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
-  <Tracking>
-    <ImageTarget name="20" size="100.000000 100.000000" />
-    <ImageTarget name="19" size="100.000000 100.000000" />
-    <ImageTarget name="18" size="100.000000 100.000000" />
-    <ImageTarget name="17" size="100.000000 100.000000" />
-    <ImageTarget name="16" size="100.000000 100.000000" />
-    <ImageTarget name="15" size="100.000000 100.000000" />
-    <ImageTarget name="14" size="100.000000 100.000000" />
-    <ImageTarget name="13" size="100.000000 100.000000" />
-    <ImageTarget name="12" size="100.000000 100.000000" />
-    <ImageTarget name="11" size="100.000000 100.000000" />
-    <ImageTarget name="10" size="100.000000 100.000000" />
-    <ImageTarget name="9" size="100.000000 100.000000" />
-    <ImageTarget name="8" size="100.000000 100.000000" />
-    <ImageTarget name="7" size="100.000000 100.000000" />
-    <ImageTarget name="6" size="100.000000 100.000000" />
-    <ImageTarget name="5" size="100.000000 100.000000" />
-    <ImageTarget name="4" size="100.000000 100.000000" />
-    <ImageTarget name="3" size="100.000000 100.000000" />
-    <ImageTarget name="2" size="100.000000 100.000000" />
-    <ImageTarget name="1" size="100.000000 100.000000" />
-    <ImageTarget name="0" size="100.000000 100.000000" />
-  </Tracking>
-</QCARConfig>
+version https://git-lfs.github.com/spec/v1
+oid sha256:67e540ff3adf5c99bbc7ad46618d439e647fdc8c6fca4f87478dc58dc630c187
+size 1424

@@ -1,15 +1,3 @@
-{
-    "name": "NativeFilePicker.Editor",
-    "references": [],
-    "includePlatforms": [
-        "Editor"
-    ],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
-    "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": [],
-    "noEngineReferences": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:653e0dd866aa010c3b83e24593bf93bdb9d064d75083e2f05242c8652dd28013
+size 353

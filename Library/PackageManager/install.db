@@ -1,13 +1,3 @@
-{
-  "schemaVersion": 1,
-  "packages": {
-    "com.ptc.vuforia.engine": {
-      "tarball": {
-        "hash": "f0b7b7833e83",
-        "mtime": 1648627255000,
-        "size": 240470124,
-        "localPath": "D:\\Yayzeustal\\Packages\\com.ptc.vuforia.engine-10.6.3.tgz"
-      }
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9602b584860f39afbf1342da40cc6434a1202268079ae51cb6d21da25188ad9
+size 285

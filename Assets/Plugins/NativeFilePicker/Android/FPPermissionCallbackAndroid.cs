@@ -1,29 +1,3 @@
-﻿#if UNITY_EDITOR || UNITY_ANDROID
-using System.Threading;
-using UnityEngine;
-
-namespace NativeFilePickerNamespace
-{
-	public class FPPermissionCallbackAndroid : AndroidJavaProxy
-	{
-		private object threadLock;
-		public int Result { get; private set; }
-
-		public FPPermissionCallbackAndroid( object threadLock ) : base( "com.yasirkula.unity.NativeFilePickerPermissionReceiver" )
-		{
-			Result = -1;
-			this.threadLock = threadLock;
-		}
-
-		public void OnPermissionResult( int result )
-		{
-			Result = result;
-
-			lock( threadLock )
-			{
-				Monitor.Pulse( threadLock );
-			}
-		}
-	}
-}
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:011ca72e8fb296dc97ad0f0c8b522348b7323e7be072004930025d462a7b0a96
+size 590

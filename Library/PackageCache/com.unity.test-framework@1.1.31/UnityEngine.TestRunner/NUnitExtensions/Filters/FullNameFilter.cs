@@ -1,21 +1,3 @@
-﻿using System;
-using System.Text.RegularExpressions;
-using NUnit.Framework.Interfaces;
-
-namespace UnityEngine.TestRunner.NUnitExtensions.Filters
-{
-    internal class FullNameFilter : NUnit.Framework.Internal.Filters.FullNameFilter
-    {
-        public FullNameFilter(string expectedValue) : base(expectedValue)
-        {
-        }
-
-        public override bool Match(ITest test)
-        {
-            return Match(test.GetFullNameWithoutDllPath());
-        }
-
-        protected override string ElementName => "test";
-
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:629c899a5b0a1191055e099b7d8a317b400b22adf94bc8735163b245fa3db386
+size 528

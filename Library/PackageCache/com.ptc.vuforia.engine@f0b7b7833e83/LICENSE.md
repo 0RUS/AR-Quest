@@ -1,7 +1,3 @@
-** Vuforia Engine **
-
-Copyright (c) 2010-2022 PTC Inc.
-All Rights Reserved.
-
-To view the Vuforia Developer Agreement, go to: https://developer.vuforia.com/legal/vuforia-developer-agreement
-3rd party notices can be found under the Vuforia/Editor/EditorResources/Licenses folder of this package.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84c620814d1864dcdac77a53e0debddacd0d34d1581fbfb389c951ecba1b0142
+size 293
